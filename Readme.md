@@ -1,6 +1,6 @@
 Weather app written in Swift 3
 ============
-Weather app written in Swift. It uses openweather.com for parsing the data.
+Weather app written in Swift 3. It uses OpenWeather's API for the weather and forecast.
 
 
 ---
